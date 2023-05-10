@@ -4,3 +4,5 @@ This project is a Sudoku game made in React. The objective of Sudoku is to fill 
 ## Project setup
 1. Run ```npm install``` to bring in all the necessary dependencies
 2. Rum ```npm start``` to launch the project
+
+![](screenshot.png)
